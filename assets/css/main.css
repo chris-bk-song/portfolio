@@ -1610,10 +1610,6 @@ input, select, textarea {
 
 /* Section/Article */
 
-	section, article {
-		margin-bottom: 3em;
-	}
-
 	section > :last-child,
 	article > :last-child,
 	section:last-child,
